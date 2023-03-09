@@ -1,0 +1,56 @@
+footer {
+	display: flex;
+	flex-direction: column;
+	background-color: #000000;
+	color: #fff;
+}
+
+.sectionUpper {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	height: 160px;
+}
+.contact-us input {
+	width: 171px;
+	height: 28px;
+	background-color: #121111;
+	color: white;
+	/* margin-top: 20px; */
+}
+.input_field {
+	display: flex;
+}
+.input_btn {
+	background: #3a3737;
+	margin-left: 0px;
+	color: red;
+	border-radius: 0;
+}
+
+.social-links img {
+	width: 40px;
+	margin-left: 20px;
+	cursor: pointer;
+}
+
+h4 {
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 25px;
+}
+
+.seticonDown {
+	margin-left: 110px;
+	margin-bottom: 20px;
+}
+
+.seticonDown h5 {
+	font-size: 20px;
+	color: crimson;
+	margin-bottom: 10px;
+}
+
+.follow-us h4 {
+	margin-bottom: 35px;
+}
